@@ -1,0 +1,38 @@
+*{
+    font-family: Outfit;
+    font-weight: 400,700;
+}
+body{
+    background-color: azure;
+}
+
+p{
+    font-size: 15px;
+    /* width:90% ; */
+    max-width: 80%;
+    padding-left:10%;
+    }
+b{
+    font-size: 15px;
+    max-width: 40%;
+}
+img{
+    position: relative;
+    top : 2%;
+    height: 60%;
+    width: 94%;
+    border-radius: 20px;
+}
+.qr-container{
+    border-style: solid;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    top:25vh;
+    left: 40vw;
+    height: 50vh;
+    width: 20vw;
+    border-radius: 10px;
+    border-style:groove;
+}
+
